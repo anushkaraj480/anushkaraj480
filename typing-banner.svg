@@ -1,0 +1,28 @@
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1565c0"/>
+      <stop offset="50%" stop-color="#3a8ee6"/>
+      <stop offset="100%" stop-color="#7ec8ff"/>
+    </linearGradient>
+    <clipPath id="typeClip">
+      <rect x="0" y="0" width="0" height="70">
+        <animate attributeName="width" from="0" to="900" begin="0.3s" dur="2.6s" fill="freeze" calcMode="spline" keySplines="0.25 0 0.3 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="70" fill="transparent"/>
+
+  <g clip-path="url(#typeClip)">
+    <text x="450" y="44" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-style="italic" font-size="26" font-weight="600" fill="url(#blueGrad)">
+      Passionate about building software that makes an impact
+    </text>
+  </g>
+
+  <!-- blinking cursor at the end of the typed text -->
+  <rect x="878" y="18" width="3" height="30" fill="#3a8ee6">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="2.9s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
