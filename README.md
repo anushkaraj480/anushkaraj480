@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
   <picture>
@@ -7,7 +7,7 @@
   </picture>
 </td>
 <td width="50%" valign="top">
-  <img src="ascii.svg" width="100%">
+  <img src="anu-ascii.svg" width="100%">
 </td>
 </tr>
 </table>
