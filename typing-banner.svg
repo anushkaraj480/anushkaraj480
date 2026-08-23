@@ -1,4 +1,4 @@
-<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="100" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1565c0"/>
@@ -19,10 +19,5 @@
       Passionate about building software that makes an impact
     </text>
   </g>
-
-  <!-- blinking cursor at the end of the typed text -->
-  <rect x="878" y="18" width="3" height="30" fill="#3a8ee6">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="2.9s" repeatCount="indefinite"/>
-  </rect>
 
 </svg>
