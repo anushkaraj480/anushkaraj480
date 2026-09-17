@@ -89,18 +89,17 @@ I'm a Pre-final Year Computer Science student dedicated to building end-to-end s
 
 ### 📈 GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake.svg"/>
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/gh-pages/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/anushka-raj-cs/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> <a href="mailto:anushkaraj480@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-
-
-### ✨ Always open to building something meaningful.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing&fontSize=20&fontColor=F3E9D2&fontAlignY=65&fontStyle=italic&fontWeight=600&animation=twinkling&color=0:1565c0,50:3a8ee6,100:7ec8ff" width="100%" alt="Waving Footer"/>
