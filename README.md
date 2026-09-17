@@ -75,34 +75,44 @@ I'm a Pre-final Year Computer Science student dedicated to building end-to-end s
 </tr>
 </table>
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anushkaraj480">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anushkaraj480&show_icons=true&hide_border=true&title_color=5de0e6&icon_color=004aad&text_color=888888&bg_color=00000000" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/anushkaraj480">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaraj480&layout=compact&hide_border=true&langs_count=8&title_color=5de0e6&text_color=888888&bg_color=00000000" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=anushkaraj480&show_icons=true&hide_border=true&count_private=true&title_color=5de0e6&icon_color=004aad&text_color=888888&bg_color=00000000" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaraj480&layout=compact&hide_border=true&langs_count=8&title_color=5de0e6&text_color=888888&bg_color=00000000" height="180" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=anushkaraj480&hide_border=true&background=00000000&ring=004aad&fire=5de0e6&currStreakLabel=5de0e6&sideLabels=5de0e6&currStreakNum=004aad&sideNums=004aad&dates=888888" alt="GitHub Streak"/>
 
-### 📈 Contribution Activity
+### 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkaraj480&bg_color=00000000&color=5de0e6&line=004aad&point=5de0e6&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
 
-### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-<!-- GitHub Action:
-Create .github/workflows/snake.yml in your profile repository.
+### 🤝 Connect With Me
 
+<a href="[YOUR_LINKEDIN_URL]">
+  <img src="https://img.shields.io/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:[YOUR_EMAIL]">
+  <img src="https://img.shields.io/badge/Email-5de0e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+### ✨ Always open to building something meaningful.
+
+</div>
+
+<!-- GitHub Action for the snake — keep this in .github/workflows/snake.yml, not in the README body:
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -113,7 +123,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
@@ -121,22 +130,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anushkaraj480/anushkaraj480/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-### 💗 Connect With Me
-
-<a href="[YOUR_LINKEDIN_URL]">
-  <img src="https://img.shields.io/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-5de0e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-### ✨ Always open to building something meaningful.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing&fontSize=20&fontColor=F3E9D2&fontAlignY=65&fontStyle=italic&fontWeight=600&animation=twinkling&color=0:1565c0,50:3a8ee6,100:7ec8ff" width="100%" alt="Waving Footer"/>
