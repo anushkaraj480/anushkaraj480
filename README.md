@@ -82,8 +82,6 @@ I'm a Pre-final Year Computer Science student dedicated to building end-to-end s
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=anushkaraj480&background=1a1b27&ring=004aad&fire=5de0e6&currStreakLabel=5de0e6&sideLabels=5de0e6&currStreakNum=004aad&sideNums=004aad&dates=888888&border=1a1b27&hide_border=true" alt="GitHub Streak" height="180" />
-  
-<img src="https://readme-stats-anushkaraj480.vercel.app/api/top-langs/?username=anushkaraj480&layout=compact&hide_border=true&bg_color=1a1b27&title_color=004aad&text_color=5de0e6&langs_count=8" alt="top langs" height="300" />
 </p>
 
 
